@@ -1,2 +1,0 @@
-Hello writing some textThis is a test of writable streams.
-End of writing.
